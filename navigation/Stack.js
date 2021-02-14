@@ -8,7 +8,6 @@ const Stack = createStackNavigator();
 export default () => {
   return (
     <Stack.Navigator
-      initialRouteName={"영화"}
       screenOptions={{
         headerStyle: {
           backgroundColor: "black",
