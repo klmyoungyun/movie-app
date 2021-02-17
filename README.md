@@ -1,4 +1,4 @@
-## movie-app
+# movie-app
 learning react-native expo cli
 
 ### 사용
